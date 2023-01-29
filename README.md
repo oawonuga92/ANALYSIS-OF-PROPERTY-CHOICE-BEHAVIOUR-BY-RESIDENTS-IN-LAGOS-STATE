@@ -12,4 +12,9 @@ II. METHODOLOGY USED
 2. Price distribution analysis of properties: The distribution of property prices will be graphically represented by a bar chart. The distribution of property prices will be categorized by an interval of ₦100M (100 million Naira)
 3. Analysis in property choice behavior by price category: The aim is to find out the range in volume of funds spent by residents to purchase a property.
 4. Analysis of Factors Influencing property choice: The dataset is explored graphically using the stacked column chart to analyze the degree of weightage in any of the attributes – bedrooms, bathrooms, toilet, parking space, price, affecting consumer property choice.
-5. 
+5. Location Distribution of Property Sale: Location distribution analysis is done using bar chart to evaluate area that have higher or lower house demand.
+
+-------------------
+III RESULTS
+![image](https://user-images.githubusercontent.com/61459286/215339316-450612f5-1270-40e0-a594-1d32815cf425.png)
+
