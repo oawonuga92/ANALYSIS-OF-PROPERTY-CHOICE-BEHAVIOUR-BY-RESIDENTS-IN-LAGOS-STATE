@@ -14,7 +14,9 @@ II. METHODOLOGY USED
 4. Analysis of Factors Influencing property choice: The dataset is explored graphically using the stacked column chart to analyze the degree of weightage in any of the attributes – bedrooms, bathrooms, toilet, parking space, price, affecting consumer property choice.
 5. Location Distribution of Property Sale: Location distribution analysis is done using bar chart to evaluate area that have higher or lower house demand.
 
--------------------
+
 III RESULTS
-![image](https://user-images.githubusercontent.com/61459286/215339316-450612f5-1270-40e0-a594-1d32815cf425.png)
+-------------------------
+![image](https://user-images.githubusercontent.com/61459286/215339485-603615d5-c6a6-4eb4-b389-049ab2823ef3.png)
+
 
