@@ -24,7 +24,16 @@ ________________________
 ![image](https://user-images.githubusercontent.com/61459286/215339956-603ae7a4-889b-4c65-a3cb-b840de1600d5.png)
 
 ________________________
-![image](https://user-images.githubusercontent.com/61459286/215340174-06ccea50-a9d2-4a60-bae0-5eb6d8cb5171.png)
+![image](https://user-images.githubusercontent.com/61459286/215340923-fa836a22-923e-4505-baff-9dd98cee3037.png)
+
+IV. KEY FINDINGS
+-----------------------------------
+1. More than half of the residents who bought houses bought at a price range below ₦100M (100 million Naira). 
+2. Also, eighty-five percent (85%) of total properties sold in the transaction period were bought below ₦200M. 
+3. Detached duplex property is the most frequently bought house regardless of the price category the house was sold. 
+4. Duplex houses in general were the most sought property type by residents and the major determinant for this type of house was “parking space”. 
+5. Lekki town is the buyer’s preferred choice area accounting for almost sixty percent (60%) of property sales. Since detached duplex is the most common property sold at every price category and Lekki town had up to 60% of residents buying houses therefore it is conclusive to say houses sold in Lekki town are detached duplexes
+6. Based on the findings, the degree in volume of property sales at Lekki town and the remaining high demand locations could negatively impact the environment by these three probable ways - Firstly, Lekki town and the four towns experiencing high influx of housing development are likely to be face infrastructural congestion attributed by excessive land usage for housing development. Secondly, since residents moving to these four towns are influenced by parking spaces, there is a likelihood that traffic congestion might occur resulting in quicker downgrade of road infrastructure. Thirdly, the impending volume of cars on the road will result in air pollution leading to health problems.
 
 
 
