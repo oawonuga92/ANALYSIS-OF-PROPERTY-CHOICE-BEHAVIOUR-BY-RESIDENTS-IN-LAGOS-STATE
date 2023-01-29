@@ -13,6 +13,10 @@ II.  Methodology used
 4. Analysis of Factors Influencing property choice: The dataset is explored graphically using the stacked column chart to analyze the degree of weightage in any of the attributes – bedrooms, bathrooms, toilet, parking space, price, affecting consumer property choice.
 5. Location Distribution of Property Sale: Location distribution analysis is done using bar chart to evaluate area that have higher or lower house demand.
 
+Software Used
+______________
+The methods outlined above are implemented using Microsoft Excel and Rapid Miner. With Microsoft Excel, the dataset is converted to a pivot table to perform data analysis while pivot charts will be used to perform data visualization. Rapid miner will be used to run the descriptive statistics of the data for data summary insights
+
 
 III.  Results
 -------------------------
