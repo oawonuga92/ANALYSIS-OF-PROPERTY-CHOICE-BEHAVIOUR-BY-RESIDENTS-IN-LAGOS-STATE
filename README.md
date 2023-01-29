@@ -3,8 +3,7 @@ This project is aimed at assessing and evaluating the infrastructural and housin
 
 #I. DATASET DESCRIPTION
 ---------------------------
-The data is a Comma separated Value (CSV) file and it is linked to the domain of Real Estate. The dataset has an original shape of 24326 rows and 8 columns. Since this research is limited to property purchases in Lagos state only. The dataset is filtered to a shape of 18,445 rows and 8 columns. The dataset is in structured format.
-The (8) property variables are as follows - number of bedrooms, bathrooms, toilets, and parking space, title, state, towns, price. The “Town” variable contains a list of 48 locations where properties were sold while ‘Price’ column contained the prices of each property sold in Naira currency (₦).  
+The data is a Comma separated Value (CSV) file and it is linked to the domain of Real Estate. The dataset has an original shape of 24326 rows and 8 columns. Since this research is limited to property purchases in Lagos state only. The dataset is filtered to a shape of 18,445 rows and 8 columns. The dataset is in structured format. The (8) property variables are as follows - number of bedrooms, bathrooms, toilets, and parking space, title, state, towns, price. The “Town” variable contains a list of 48 locations where properties were sold while ‘Price’ column contained the prices of each property sold in Naira currency (₦).  
 
 II. METHODOLOGY USED
 ---------------------
@@ -17,6 +16,26 @@ II. METHODOLOGY USED
 
 III RESULTS
 -------------------------
+Price Category Name	Range of prices (price interval)
+PC 1	₦90,000 – ₦99.9M
+PC 2	₦100M – ₦199.9M
+PC 3	₦200M - ₦299.9M
+PC 4	₦300M – ₦399.9M
+PC 5	₦400M – ₦499.9M
+PC 6	>= ₦500M
 ![image](https://user-images.githubusercontent.com/61459286/215339485-603615d5-c6a6-4eb4-b389-049ab2823ef3.png)
+
+_______________________
+![image](https://user-images.githubusercontent.com/61459286/215339819-c6d9b7c2-1e2a-4294-ba87-848c337d3044.png)
+
+________________________
+![image](https://user-images.githubusercontent.com/61459286/215339956-603ae7a4-889b-4c65-a3cb-b840de1600d5.png)
+
+________________________
+![image](https://user-images.githubusercontent.com/61459286/215340174-06ccea50-a9d2-4a60-bae0-5eb6d8cb5171.png)
+
+
+
+
 
 
