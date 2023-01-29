@@ -9,4 +9,4 @@ The (8) property variables are as follows - number of bedrooms, bathrooms, toile
 
 II. METHODOLOGY USED
 ---------------------
-Descriptive statistics of #the #dataset: Since the dataset contains five numerical columns, frequency distribution and descriptive statistics will be performed entire dataset to see summary of insights about the data with regards to attributes
+Descriptive statistics of the dataset: Since the dataset contains five numerical columns, frequency distribution and descriptive statistics will be performed entire dataset to see summary of insights about the data with regards to attributes
