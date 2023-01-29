@@ -1,4 +1,4 @@
-# Analysis-Of-Property-Choice-Behaviour-By-Residents-In-Lagos-State
+# Analysis-Of-Property-Choice-Behaviour-By-Residents-In-Lagos-State (Nigeria)
 This project is aimed at assessing and evaluating the infrastructural and housing considerations that are leading causes of Lagos residents purchasing duplex houses, which have not previously been explored from perspective on consumers
 
 #I.  Dataset Description
