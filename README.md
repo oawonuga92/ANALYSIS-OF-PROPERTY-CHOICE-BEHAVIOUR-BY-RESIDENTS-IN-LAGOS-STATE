@@ -16,16 +16,12 @@ II. METHODOLOGY USED
 
 III RESULTS
 -------------------------
+![image](https://user-images.githubusercontent.com/61459286/215340316-3a7aa0df-8196-44c7-bab8-dbea403343d3.png)
 
-![image](https://user-images.githubusercontent.com/61459286/215339485-603615d5-c6a6-4eb4-b389-049ab2823ef3.png)
 Price Category Name	Range of prices (price interval)
-PC 1	₦90,000 – ₦99.9M
-PC 2	₦100M – ₦199.9M
-PC 3	₦200M - ₦299.9M
-PC 4	₦300M – ₦399.9M
-PC 5	₦400M – ₦499.9M
-PC 6	>= ₦500M
-_______________________
+![image](https://user-images.githubusercontent.com/61459286/215340335-275301b3-1b36-4963-9dfc-df72f6dcd46d.png)
+
+___________
 ![image](https://user-images.githubusercontent.com/61459286/215339819-c6d9b7c2-1e2a-4294-ba87-848c337d3044.png)
 
 ________________________
