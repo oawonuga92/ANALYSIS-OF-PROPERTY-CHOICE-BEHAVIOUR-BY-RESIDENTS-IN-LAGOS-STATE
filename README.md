@@ -8,8 +8,8 @@ The (8) property variables are as follows - number of bedrooms, bathrooms, toile
 
 II. METHODOLOGY USED
 ---------------------
-1. Descriptive statistics of the dataset: Descriptive statistics will be performed entire dataset to see summary of insights about the data 
-2: Price distribution analysis of properties: The distribution of property prices will be graphically represented by a bar chart. The distribution of property prices will be categorized by an interval of ₦100M (100 million Naira)
+1. Descriptive statistics of the dataset: Descriptive statistics will be performed entire dataset to see summary of insights about the data
+2. Price distribution analysis of properties: The distribution of property prices will be graphically represented by a bar chart. The distribution of property prices will be categorized by an interval of ₦100M (100 million Naira)
 3. Analysis in property choice behavior by price category: The aim is to find out the range in volume of funds spent by residents to purchase a property.
 4. Analysis of Factors Influencing property choice: The dataset is explored graphically using the stacked column chart to analyze the degree of weightage in any of the attributes – bedrooms, bathrooms, toilet, parking space, price, affecting consumer property choice.
 5. 
