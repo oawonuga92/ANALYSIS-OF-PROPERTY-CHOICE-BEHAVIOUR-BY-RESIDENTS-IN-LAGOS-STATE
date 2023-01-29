@@ -16,7 +16,6 @@ II. METHODOLOGY USED
 
 III RESULTS
 -------------------------
-Price Category Name	Range of prices (price interval)
 ![image](https://user-images.githubusercontent.com/61459286/215340462-937cafcf-dbe1-4a09-acae-0f0f893b0922.png)
 ___________
 ![image](https://user-images.githubusercontent.com/61459286/215339819-c6d9b7c2-1e2a-4294-ba87-848c337d3044.png)
