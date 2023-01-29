@@ -8,4 +8,5 @@ _______
 The (8) property variables are as follows - number of bedrooms, bathrooms, toilets, and parking space, title, state, towns, price. The “Town” variable contains a list of 48 locations where properties were sold while ‘Price’ column contained the prices of each property sold in Naira currency (₦).  The dataset satisfies the conditions of a good data, yet one of its major limitations is that it lacks date attributes therefore it is difficult to make any comparison on property prices from a monthly or yearly period.
 
 II. METHODOLOGY USED
-#Descriptive #statistics #of #the #dataset: Since the dataset contains five numerical columns, frequency distribution and descriptive statistics will be performed entire dataset to see summary of insights about the data with regards to attributes
+---------------------
+Descriptive statistics of #the #dataset: Since the dataset contains five numerical columns, frequency distribution and descriptive statistics will be performed entire dataset to see summary of insights about the data with regards to attributes
